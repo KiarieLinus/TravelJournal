@@ -1,1 +1,21 @@
+* {
+  box-sizing: border-box;
+}
 
+body {
+  margin: 0;
+}
+
+nav {
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  padding: 20px 36px;
+  background-color: #F55A5A;
+  align-items: center;
+  color: white;
+}
+
+.nav--logo{
+  padding-right: 8px;
+}
